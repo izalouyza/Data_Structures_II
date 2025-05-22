@@ -40,12 +40,22 @@ void preOrdem(Node* raiz){
         preOrdem(raiz->direita);
     }
 }
-// void posOrdem(Node* raiz){
-    
-// }
-// void inOrdem(Node* raiz){
-    
-// }
+
+void posOrdem(Node* raiz){
+    if(raiz!= NULL)   {
+        posOrdem(raiz->esquerda);
+        posOrdem(raiz->direita);
+        printf("%d ", raiz->valor);
+    }
+}
+
+void inOrdem(Node* raiz){
+    if(raiz!= NULL)   {
+        inOrdem(raiz->esquerda);
+        printf("%d ", raiz->valor);
+        inOrdem(raiz->direita);
+    }
+}
 
 int main(){
     Node *raiz = NULL;
@@ -59,7 +69,7 @@ int main(){
     raiz = inserir(raiz, 23);
     raiz = inserir(raiz, 15);
     raiz = inserir(raiz, 31);
-    preOrdem(raiz);
+    posOrdem(raiz);
 }
 
 
