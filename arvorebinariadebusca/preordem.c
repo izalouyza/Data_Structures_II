@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-//invertexto.com/rzak36
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -128,6 +126,3 @@ int main(){
     raiz = inserir(raiz, 31);
     preOrdem(raiz);
 }
-
-
->>>>>>> affff36648406d70a2733f5af392070010ba7558
