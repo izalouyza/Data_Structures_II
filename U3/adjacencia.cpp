@@ -1,4 +1,5 @@
-#include <iostream>
+#include <stdio.h>
+#include <stdlib.h>
 
 void inicializarMatriz(int** matriz, int numVertices) {
     for (int i = 0; i < numVertices; ++i) {
@@ -18,9 +19,9 @@ void adicionarAresta(int** matriz, int origem, int destino, int numVertices) {
 void mostrarMatriz(int** matriz, int numVertices) {
     for (int i = 0; i < numVertices; ++i) {
         for (int j = 0; j < numVertices; ++j) {
-            std::cout << matriz[i][j] << " ";
+            printf("%d ", matriz[i][j]);
         }
-        std::cout << std::endl;
+        printf("\n");
     }
 }
 
