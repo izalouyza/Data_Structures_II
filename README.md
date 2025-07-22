@@ -9,9 +9,9 @@ Repositório dedicado às disciplinas **Algoritmos e Estrutura de Dados II (PEX1
 O repositório está dividido em três unidades de estudo.
 
 ### 📖 Unidades de Estudo
-- [Unidade 1 - ](./U1/)
-- [Unidade 2 - ](./U2/)
-- [Unidade 3 - ](./U3/)
+- [Unidade 1 - Complexidade de Algoritmos, Árvore Binária de Busca (BST)](./U1/)
+- [Unidade 2 - Estrutura de Dados Hash](./U2/)
+- [Unidade 3 - Grafos](./U3/)
 
 ---
 
