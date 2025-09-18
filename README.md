@@ -2,7 +2,8 @@
 
 Repositório dedicado às disciplinas **Algoritmos e Estrutura de Dados II (PEX1246)** e **Laboratório de Algoritmos e Estruturas de Dados II (PEX1247)**, contendo exemplos e resoluções de listas de exercícios.
 
-
+![Linguagem](https://img.shields.io/badge/linguagem-C-blue)
+![Último commit](https://img.shields.io/github/last-commit/izalouyza/Data_Structures_II)
 ---
 
 ## 📌 1. Organização do Repositório
