@@ -9,17 +9,26 @@ Repositório dedicado às disciplinas **Algoritmos e Estrutura de Dados II (PEX1
 ---
 
 ## Organização do Repositório
-O repositório está dividido em três unidades de estudo.
 
-### Unidades de Estudo
-- [Unidade 1 - Complexidade de Algoritmos, Árvore Binária de Busca (BST)](./U1/)
-- [Unidade 2 - Estrutura de Dados Hash](./U2/)
-- [Unidade 3 - Grafos](./U3/)
+O conteúdo está dividido em **três unidades principais**, seguindo a sequência didática da disciplina:  
+
+| Unidade | Tópicos Principais | Diretório |
+|----------|-------------------|------------|
+|**U1**| Complexidade de Algoritmos e Árvores Binárias de Busca (BST) | [Acessar](./U1/) |
+|**U2**| Estruturas de Dados Hash e Funções de Espalhamento | [Acessar](./U2/) |
+|**U3**| Teoria dos Grafos e Algoritmos de Caminhos | [Acessar](./U3/) |
 
 ---
 
 ## Exemplos
 Os exemplos estão organizados dentro de suas respectivas unidades e pastas temáticas.
 
+## Objetivo do Repositório
+
+Este repositório foi criado para:
+
+- Consolidar os conceitos avançados de Estruturas de Dados;
+- Servir como material de estudo e referência prática;
+- Demonstrar implementações eficientes e bem estruturadas em C.
 ---
 
